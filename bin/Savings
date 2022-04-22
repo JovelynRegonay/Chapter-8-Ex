@@ -1,0 +1,13 @@
+public class Savings {
+
+    balance = bal;
+    int save;
+    public int getBalance (){
+        return (balance);
+    }
+
+public void saving (int save) {
+    balance += save;
+
+}
+}
